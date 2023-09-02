@@ -1,0 +1,59 @@
+html{
+background-color: rgba(219, 192, 151, 0.562);
+}
+#slogn{
+    color:rgb(109, 6, 183);
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    font-weight: 900;
+    color: red;
+}
+#info{
+    text-align: center;
+    color: brown;
+  
+}
+.info1{
+    color:royalblue;
+}
+.Price{
+    color: rgb(147, 10, 10);
+}
+img{
+    width: 100x;
+    height: 100px;
+}
+.price{
+    margin-left: 100px;
+}
+.button1{
+    background-color: rgb(77, 177, 219);
+    margin: 20px;
+    font-size: large;
+}
+.button2{
+    background-color:coral;
+    color: black;
+    font-size: large;
+}
+div{
+    margin: 30px;
+}
+.footar1{
+    background-color: rgb(213, 213, 213);
+}
+#image2{
+    text-align: justify;
+    width: 500px;
+    height: 180px;
+    margin: 20px;
+}
+#about us{
+    margin: 20px;
+}
+#contact us{
+    margin: 20px;
+}
