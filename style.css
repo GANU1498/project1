@@ -33,11 +33,13 @@ img{
     background-color: rgb(77, 177, 219);
     margin: 20px;
     font-size: large;
+    padding: 10px;
 }
 .button2{
     background-color:coral;
     color: black;
     font-size: large;
+    padding: 10px;
 }
 div{
     margin: 30px;
@@ -51,9 +53,9 @@ div{
     height: 180px;
     margin: 20px;
 }
-#about us{
-    margin: 20px;
+#aboutus{
+    margin-left: 120px;
 }
-#contact us{
-    margin: 20px;
+#contactus{
+    margin-left: 30px;
 }
